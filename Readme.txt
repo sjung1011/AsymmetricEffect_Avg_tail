@@ -52,6 +52,7 @@ Freq    : Monthly → averaged to Quarterly
 STUDY 1 GIRF: EmpI folder
 Main running file: run_IRF.m
 		 - Results are stored in Results_EmpI
+		 - The code is adapted from the methodology in Alessandri and Mumtaz (2017).
 Data    : Data/TVAR.xlsx
 Sheet IRF : Endogenous variables (GFC_d1, FU, EBP, GFU, GFCI, GCA, GRA, WIP)
 Sheet IV  : Auxiliary equation variables (UI, IP, CPI, FF, UER, TYM)
