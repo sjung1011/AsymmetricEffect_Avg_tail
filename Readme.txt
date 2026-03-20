@@ -1,7 +1,7 @@
 =======================================================
 README
 =======================================================
-Project : Asymmetric Capital Flows and Portfolio Reallocation to SOEs
+Project : Asymmetric Capital Flows and Portfolio Reallocation to SOEs (working in progress)
 Author  : Seojin Jung
 Date    : Spring 2026
 -------------------------------------------------------
